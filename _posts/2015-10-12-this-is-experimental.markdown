@@ -2,7 +2,7 @@
 layout: post
 title:  "Almost Working!"
 date:   2015-10-12 19:43:13
-categories: blog update janitor
+categories: blog
 ---
 
 # Slowly configuring everything
