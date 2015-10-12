@@ -2,8 +2,8 @@
 title: Super McGeary Bros Finest Software
 email: derwinmcgeary@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-	     We are awesome coders, and we will write you amazing programs that delight as they
-	      surprise, and surprise as they serve!
+     We are awesome coders, and we will write you amazing programs that delight as they
+     surprise, and surprise as they serve!
 baseurl: "/mcgearybros/" # the subpath of your site, e.g. /blog/
 url: "http://derwinmcgeary.github.io" # the base hostname & protocol for your site
 twitter_username: mcgearybros
